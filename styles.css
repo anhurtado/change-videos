@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	margin: auto;
+}
+
+input[type=button] {
+	text-align: center;
+	margin: auto;
+	width: 100px;
+	height: 40px;
+}
+
+iframe {
+	width: 700px;
+	height: 500px;
+	display: block;
+	margin: auto;
+}
+
+#menu {
+	display: block;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	padding: 4px;
+}
